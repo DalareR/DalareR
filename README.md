@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Dalare Rana</h1>
-<h3 align="center">Front-end Web Developer from Columbia,PA</h3>
-<img src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="Animated gif image of web development"/>
+<h1>Hi, I'm Dalare Rana 👋🏼🧑🏻‍💻</h1>
 
+![dalare_rana_cover](https://github.com/DalareR/DalareR/assets/103294114/4a7bf0c3-3e69-4ae0-99f3-9dc5ec37ca8d)
+
+<p>My name is Dalare Rana and I'm a front-end developer with passion for UX/UI design. I’ve been coding React & Next.js applications for two years and have helped small businesses with their website by creating an easy-to-navigate, interactive, responsive & highly performant web solutions. I use modern tools and technologies for my projects like, HTML5, CSS, Javascript, React, NextJS, Typescript & Git. I’m also familiar with popular third party libraries like, Tailwind, Bootstrap and ChakraUI.</p>
+
+## Follow me around: 
 - 👨‍💻 All of my projects are available at [https://dalarerana.com](https://dalarerana.com)
 
 - 💬 Ask me about **Front-end Web Development, React, NextJS, Javascript, or any other web development related questions.**
@@ -14,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dalarerana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dalarerana" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dalarerana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dalarerana" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
