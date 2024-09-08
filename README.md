@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **https://dalarerana.dev**
 
-- 📄 Know about my experiences [https://dalarerana.com/downloads/Dalare_Rana_Resume.pdf](https://dalarerana.com/downloads/Dalare_Rana_Resume.pdf)
-
 - ⚡ Fun fact **I love travelling and photographing landscapes 📸**
 
 <h3 align="left">Connect with me:</h3>
