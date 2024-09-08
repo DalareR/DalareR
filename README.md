@@ -5,11 +5,11 @@
 <p>My name is Dalare Rana and I'm a front-end developer with passion for UX/UI design. I’ve been coding React & Next.js applications for two years and have helped small businesses with their website by creating an easy-to-navigate, interactive, responsive & highly performant web solutions. I use modern tools and technologies for my projects like, HTML5, CSS, Javascript, React, NextJS, Typescript & Git. I’m also familiar with popular third party libraries like, Tailwind, Bootstrap and ChakraUI.</p>
 
 ## Follow me around: 
-- 👨‍💻 All of my projects are available at [https://dalarerana.com](https://dalarerana.com)
+- 👨‍💻 All of my projects are available at [https://dalarerana.dev](https://dalarerana.dev)
 
 - 💬 Ask me about **Front-end Web Development, React, NextJS, Javascript, or any other web development related questions.**
 
-- 📫 How to reach me **https://dalarerana.com/contact**
+- 📫 How to reach me **https://dalarerana.dev**
 
 - 📄 Know about my experiences [https://dalarerana.com/downloads/Dalare_Rana_Resume.pdf](https://dalarerana.com/downloads/Dalare_Rana_Resume.pdf)
 
