@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dalare Rana 👋🏼🧑🏻‍💻</h1>
+<h1>Hi, I'm Dalare 👋🏼🧑🏻‍💻</h1>
 
 ![dalare_rana_cover](https://github.com/DalareR/DalareR/assets/103294114/4a7bf0c3-3e69-4ae0-99f3-9dc5ec37ca8d)
 
