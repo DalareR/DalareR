@@ -2,7 +2,7 @@
 
 ![dalare_rana_cover](https://github.com/DalareR/DalareR/assets/103294114/4a7bf0c3-3e69-4ae0-99f3-9dc5ec37ca8d)
 
-<p>My name is Dalare Rana and I'm a front-end developer with passion for UX/UI design. I’ve been coding React & Next.js applications for two years and have helped small businesses with their website by creating an easy-to-navigate, interactive, responsive & highly performant web solutions. I use modern tools and technologies for my projects like, HTML5, CSS, Javascript, React, NextJS, Typescript & Git. I’m also familiar with popular third party libraries like, Tailwind, Bootstrap and ChakraUI.</p>
+<p>My name is Dalare Rana and I'm a Full Stack Developer with passion for UX/UI design. I’ve been coding React & Next.js applications for two years and have helped small businesses with their website by creating an easy-to-navigate, interactive, responsive & highly performant web solutions. I use modern tools and technologies for my projects like, HTML5, CSS, Javascript, React, NextJS, Typescript & Git. I’m also familiar with popular third party libraries like, Tailwind, Bootstrap and ChakraUI.</p>
 
 ## Follow me around: 
 - 👨‍💻 All of my projects are available at [https://dalarerana.dev](https://dalarerana.dev)
